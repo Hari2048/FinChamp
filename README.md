@@ -21,7 +21,7 @@ Expenses Tracker is an Android application designed to help users manage and tra
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/expenses-tracker.git
+    git clone https://github.com/Hari2048/FinChamp
     ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
