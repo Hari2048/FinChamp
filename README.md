@@ -77,8 +77,8 @@ Target SDK Version: 33
 ### Dependencies
 The project includes the following dependencies:
 
-`AndroidX Libraries`\
-`Kotlin Standard Library`\
+`AndroidX Libraries`
+`Kotlin Standard Library`
 `AndroidX Test Libraries`\
 For a complete list of dependencies, refer to the build.gradle file.
 
