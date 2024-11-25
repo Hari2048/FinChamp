@@ -27,7 +27,7 @@ Expenses Tracker is an Android application designed to help users manage and tra
 3. Sync the project with Gradle files.
 4. Build and run the project on an emulator or a physical device.
 
-### Running Tests
+## Running Tests
 
 To run the instrumented tests on an Android device, use the following command:
 
